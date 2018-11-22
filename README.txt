@@ -1,3 +1,3 @@
-<a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage">Responsive Web Design Projects - Build a Personal Portfolio Webpage</a>
+Responsive Web Design Projects - Build a Personal Portfolio Webpage
 
 <a href="https://codepen.io/JajwalyaRK/pen/yRwmXz?editors=1100">Demo</a>
