@@ -1,3 +1,20 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/JajwalyaRK/pen/yRwmXz.
+<a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage">Responsive Web Design Projects - Build a Personal Portfolio Webpage</a>
 
- 
+Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.</br>
+You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!</br>
+User Story #1: My portfolio should have a welcome section with an id of welcome-section.</br>
+User Story #2: The welcome section should have an h1 element that contains text.</br>
+User Story #3: My portfolio should have a projects section with an id of projects.</br>
+User Story #4: The projects section should contain at least one element with a class of project-tile to hold a project.</br>
+User Story #5: The projects section should contain at least one link to a project.</br>
+User Story #6: My portfolio should have a navbar with an id of navbar.</br>
+User Story #7: The navbar should contain at least one link that I can click on to navigate to different sections of the page.</br>
+User Story #8: My portfolio should have a link with an id of profile-link, which opens my GitHub or FCC profile in a new tab.</br>
+User Story #9: My portfolio should have at least one media query.</br>
+User Story #10: The height of the welcome section should be equal to the height of the viewport.</br>
+User Story #11: The navbar should always be at the top of the viewport.</br>
+
+<a href="https://codepen.io/JajwalyaRK/pen/yRwmXz?editors=1100">Demo</a>
+
+<p data-height="265" data-theme-id="0" data-slug-hash="yRwmXz" data-default-tab="html,result" data-user="JajwalyaRK" data-pen-title="reactjs jQuery Portfolio" class="codepen">See the Pen <a href="https://codepen.io/JajwalyaRK/pen/yRwmXz/">reactjs jQuery Portfolio</a> by Jajwalya Ramesh Karajgikar (<a href="https://codepen.io/JajwalyaRK">@JajwalyaRK</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
