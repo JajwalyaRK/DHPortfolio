@@ -15,6 +15,3 @@ User Story #10: The height of the welcome section should be equal to the height 
 User Story #11: The navbar should always be at the top of the viewport.</br>
 
 <a href="https://codepen.io/JajwalyaRK/pen/yRwmXz?editors=1100">Demo</a>
-
-<p data-height="265" data-theme-id="0" data-slug-hash="yRwmXz" data-default-tab="html,result" data-user="JajwalyaRK" data-pen-title="reactjs jQuery Portfolio" class="codepen">See the Pen <a href="https://codepen.io/JajwalyaRK/pen/yRwmXz/">reactjs jQuery Portfolio</a> by Jajwalya Ramesh Karajgikar (<a href="https://codepen.io/JajwalyaRK">@JajwalyaRK</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
